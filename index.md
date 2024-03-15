@@ -2,4 +2,5 @@
 
 Welcome!!!
 
-[Flutter Bootcamp](/bootcamp)
+ * [Flutter Bootcamp](/bootcamp)
+ * [Other](/other)
